@@ -1,0 +1,2 @@
+(self.webpackChunk=self.webpackChunk||[]).push([[6754],{30717:function(){window.adsEnabled=!0},78846:function(n,e,f){("undefined"!=typeof window?window:void 0!==f.g?f.g:"undefined"!=typeof self?self:{}).SENTRY_RELEASE={id:"7881c1cba301b2de00f90129978eeffbc4821b78"}}},function(n){var e=function(e){return n(n.s=e)};e(78846),e(30717)}]);
+//# sourceMappingURL=detection.e718bc81ca01754be0c2.js.map
